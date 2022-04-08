@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "JORGE BRYAN",
+      "empresa": "ESPOL",
+      "email": "jp28231317@gmail.com",
+      "telefono": "0988278581",
+      "notas": "Aprendiendo react",
+      "id": 1
+    },
+    {
+      "nombre": "JORGE BRYAN",
+      "empresa": "ESPOL",
+      "email": "jp28231317@gmail.com",
+      "telefono": "0988278581",
+      "notas": "Aprendiendo react",
+      "id": 2
+    },
+    {
+      "nombre": "JORGE BRYAN",
+      "empresa": "ESPOL",
+      "email": "jp28231317@gmail.com",
+      "telefono": "0988278581",
+      "notas": "hola",
+      "id": 4
+    }
+  ]
+}
